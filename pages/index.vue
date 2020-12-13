@@ -127,7 +127,74 @@
                   </figure>
                   <div class="post-content">
                     <div class="post-meta">
-                      <span class="post-meta-datetime" title="date to string"></span>
+                      <span class="post-meta-datetime" title="date to string">5 hours aho</span>
+                      <h5>
+                        <a href="">Paris chuktir lokhko bastobayone unnoto desher orthoayoner ahban</a>
+                      </h5>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="col-sm-6 col-xl-4">
+                <div class="post-item">
+                  <figure>
+                    <a href="#"><img data-src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" alt="none"></a>
+                  </figure>
+                  <div class="post-content">
+                    <div class="post-meta">
+                      <span class="post-meta-datetime" title="date to string">5 hours aho</span>
+                      <h5>
+                        <a href="" class="big_post_title_small">Paris chuktir lokhko bastoba unnoto</a>
+                      </h5>
+                      <p class="post-excerpt post_excerpt_first">Nitol group bajare niye alo tader notun ponno tarjan paper.&nbsp; Online tarjan paper er udvodon koren grtuper chairman abdul matlub ahmaed</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="col-sm-6 col-xl-4">
+                <div class="post-item">
+                  <figure>
+                    <a href="#"><img data-src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" alt="none"></a>
+                  </figure>
+                  <div class="post-content">
+                    <div class="post-meta">
+                      <span class="post-meta-datetime" title="date to string">5 hours aho</span>
+                      <h5>
+                        <a href="" class="big_post_title_small">Paris chuktir lokhko bastoba unnoto</a>
+                      </h5>
+                      <p class="post-excerpt">Nitol group bajare niye alo tader notun ponno tarjan paper.&nbsp; Online tarjan paper er udvodon koren grtuper chairman abdul matlub ahmaed</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="col-sm-6 col-xl-4">
+                <div class="post-item">
+                  <figure>
+                    <a href="#"><img data-src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" alt="none"></a>
+                  </figure>
+                  <div class="post-content">
+                    <div class="post-meta">
+                      <span class="post-meta-datetime" title="date to string">5 hours aho</span>
+                      <h5>
+                        <a href="" class="big_post_title_small">Paris chuktir lokhko bastoba unnoto</a>
+                      </h5>
+                      <p class="post-excerpt">Nitol group bajare niye alo tader notun ponno tarjan paper.&nbsp; Online tarjan paper er udvodon koren grtuper chairman abdul matlub ahmaed</p>
+                    </div>
+                  </div>
+                </div>
+              </article>
+              <article class="col-sm-6 col-xl-4">
+                <div class="post-item">
+                  <figure>
+                    <a href="#"><img data-src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" src="https://asset1.dbcnews.tv/storage/images/ee86af62-2797-4cd8-add5-1e1deb3b1601.JPG" alt="none"></a>
+                  </figure>
+                  <div class="post-content">
+                    <div class="post-meta">
+                      <span class="post-meta-datetime" title="date to string">5 hours aho</span>
+                      <h5>
+                        <a href="" class="big_post_title_small">Paris chuktir lokhko bastoba unnoto</a>
+                      </h5>
+                      <p class="post-excerpt">Nitol group bajare niye alo tader notun ponno tarjan paper.&nbsp; Online tarjan paper er udvodon koren grtuper chairman abdul matlub ahmaed</p>
                     </div>
                   </div>
                 </div>
@@ -136,7 +203,9 @@
           </div>
         </div>
         <div class="col-xl-3 pl-0">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at quas asperiores reiciendis commodi maxime quis quaerat! Illo voluptate laboriosam et quam error a officia ipsa eaque. Labore, et minus!
+          <div class="posts-box side-bar__innner mt-10">
+
+          </div>
         </div>
       </div>
     </div>
@@ -212,3 +281,5 @@
 export default {}
 </script>
 
+mehrabhoussainshakil12@gmail.com
+01728493748#Sim
