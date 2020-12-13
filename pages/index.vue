@@ -203,23 +203,335 @@
           </div>
         </div>
         <div class="col-xl-3 pl-0">
-          <div class="posts-box side-bar__innner mt-10">
-
+          <div class="posts-box side-bar__innner mt-0">
+            <div class="widget widget--border-box cat-trending single-cat">
+              <ul class="posts-wrap">
+                <li class="cat-sports">
+                  <figure>
+                    <a href="">
+                      <img data-source="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" src="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" alt="none">
+                    </a>
+                  </figure>
+                  <div class="post-content">
+                    <h6 class="post-title"><a href="">Jatiyo Eidgah moydane agamical nurhosener janaja</a></h6>
+                    <div class="post-meta"></div>
+                  </div>
+                </li>
+                <li class="cat-sports">
+                  <figure>
+                    <a href="">
+                      <img data-source="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" src="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" alt="none">
+                    </a>
+                  </figure>
+                  <div class="post-content">
+                    <h6 class="post-title"><a href="">Jatiyo Eidgah moydane agamical nurhosener janaja</a></h6>
+                    <div class="post-meta"></div>
+                  </div>
+                </li>
+                <li class="cat-sports">
+                  <figure>
+                    <a href="">
+                      <img data-source="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" src="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" alt="none">
+                    </a>
+                  </figure>
+                  <div class="post-content">
+                    <h6 class="post-title"><a href="">Jatiyo Eidgah moydane agamical nurhosener janaja</a></h6>
+                    <div class="post-meta"></div>
+                  </div>
+                </li>
+                <li class="cat-sports">
+                  <figure>
+                    <a href="">
+                      <img data-source="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" src="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" alt="none">
+                    </a>
+                  </figure>
+                  <div class="post-content">
+                    <h6 class="post-title"><a href="">Jatiyo Eidgah moydane agamical nurhosener janaja</a></h6>
+                    <div class="post-meta"></div>
+                  </div>
+                </li>
+                <li class="cat-sports">
+                  <figure>
+                    <a href="">
+                      <img data-source="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" src="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" alt="none">
+                    </a>
+                  </figure>
+                  <div class="post-content">
+                    <h6 class="post-title"><a href="">Jatiyo Eidgah moydane agamical nurhosener janaja</a></h6>
+                    <div class="post-meta"></div>
+                  </div>
+                </li>
+                <li class="cat-sports">
+                  <figure>
+                    <a href="">
+                      <img data-source="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" src="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" alt="none">
+                    </a>
+                  </figure>
+                  <div class="post-content">
+                    <h6 class="post-title"><a href="">Jatiyo Eidgah moydane agamical nurhosener janaja</a></h6>
+                    <div class="post-meta"></div>
+                  </div>
+                </li>
+                <li class="cat-sports">
+                  <figure>
+                    <a href="">
+                      <img data-source="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" src="https://asset1.dbcnews.tv/storage/images/e38f0b78-9c36-4bf6-9046-3d553eb46d48.webp" alt="none">
+                    </a>
+                  </figure>
+                  <div class="post-content">
+                    <h6 class="post-title"><a href="">Jatiyo Eidgah moydane agamical nurhosener janaja</a></h6>
+                    <div class="post-meta"></div>
+                  </div>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
     </div>
     <div class="container mt-10">
       <div class="row">
-        <div class="col-xl-3">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at quas asperiores reiciendis commodi maxime quis quaerat! Illo voluptate laboriosam et quam error a officia ipsa eaque. Labore, et minus!
+
+        <div class="col-lg-4 u-md-down-margin-b-40">
+          <div class="posts-box cat-technology single-item">
+            <div class="posts-box__top">
+              <h4 class="posts-box__top__title">
+                Bangladesh
+              </h4>
+            </div>
+            <div class="posts-list has-big-in-top">
+              <article class="post-item" style="display:block">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                  <p class="post-excerpt">
+                    deshe koronay virue a akranto hoey r o 42 jone deatfh.a niye mot pranhani 7 hajar 52 joner
+                  </p>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+            </div>
+          </div>
         </div>
-        <div class="col-xl-6">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at quas asperiores reiciendis commodi maxime quis quaerat! Illo voluptate laboriosam et quam error a officia ipsa eaque. Labore, et minus!
+
+        <div class="col-lg-4 u-md-down-margin-b-40">
+          <div class="posts-box cat-technology single-item">
+            <div class="posts-box__top">
+              <h4 class="posts-box__top__title">
+                Bangladesh
+              </h4>
+            </div>
+            <div class="posts-list has-big-in-top">
+              <article class="post-item" style="display:block">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                  <p class="post-excerpt">
+                    deshe koronay virue a akranto hoey r o 42 jone deatfh.a niye mot pranhani 7 hajar 52 joner
+                  </p>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+            </div>
+          </div>
         </div>
-        <div class="col-xl-3">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at quas asperiores reiciendis commodi maxime quis quaerat! Illo voluptate laboriosam et quam error a officia ipsa eaque. Labore, et minus!
+
+        <div class="col-lg-4 u-md-down-margin-b-40">
+          <div class="posts-box cat-technology single-item">
+            <div class="posts-box__top">
+              <h4 class="posts-box__top__title">
+                Bangladesh
+              </h4>
+            </div>
+            <div class="posts-list has-big-in-top">
+              <article class="post-item" style="display:block">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                  <p class="post-excerpt">
+                    deshe koronay virue a akranto hoey r o 42 jone deatfh.a niye mot pranhani 7 hajar 52 joner
+                  </p>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+              <article class="post-item post_item_last">
+                <figure>
+                  <a href="">
+                    <img data-src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" src="https://asset1.dbcnews.tv/storage/images/9b6867b1-2302-40f0-b0f2-bf10080ea73b.jpg" alt="none">
+                  </a>
+                </figure>
+                <div class="post-content">
+                  <h4 class="post-title"><a href="">Deshe koronay r o 32 death and sonakto 1355</a></h4>
+                  <div class="post-meta">
+                    <span title="date to stiong"><i class="fa fa-clock-o"></i> 44 minute ago</span>
+                  </div>
+                </div>
+              </article>
+            </div>
+          </div>
         </div>
+
       </div>
     </div>
     <div class="container mt-10">
@@ -274,6 +586,21 @@
         </div>
       </div>
     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </div>
 </template>
 
@@ -281,5 +608,3 @@
 export default {}
 </script>
 
-mehrabhoussainshakil12@gmail.com
-01728493748#Sim
